@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/react-convertidor/static/js/main.d42e9b1d.chunk.js",
-    "main.js.map": "/react-convertidor/static/js/main.d42e9b1d.chunk.js.map",
-    "runtime-main.js": "/react-convertidor/static/js/runtime-main.42eb714e.js",
-    "runtime-main.js.map": "/react-convertidor/static/js/runtime-main.42eb714e.js.map",
-    "static/js/2.f4949da3.chunk.js": "/react-convertidor/static/js/2.f4949da3.chunk.js",
-    "static/js/2.f4949da3.chunk.js.map": "/react-convertidor/static/js/2.f4949da3.chunk.js.map",
-    "index.html": "/react-convertidor/index.html",
-    "static/js/2.f4949da3.chunk.js.LICENSE.txt": "/react-convertidor/static/js/2.f4949da3.chunk.js.LICENSE.txt"
+    "main.js": "/react-convertidor-mr/static/js/main.55a1178c.chunk.js",
+    "main.js.map": "/react-convertidor-mr/static/js/main.55a1178c.chunk.js.map",
+    "runtime-main.js": "/react-convertidor-mr/static/js/runtime-main.db7b9c7e.js",
+    "runtime-main.js.map": "/react-convertidor-mr/static/js/runtime-main.db7b9c7e.js.map",
+    "static/js/2.f4949da3.chunk.js": "/react-convertidor-mr/static/js/2.f4949da3.chunk.js",
+    "static/js/2.f4949da3.chunk.js.map": "/react-convertidor-mr/static/js/2.f4949da3.chunk.js.map",
+    "index.html": "/react-convertidor-mr/index.html",
+    "static/js/2.f4949da3.chunk.js.LICENSE.txt": "/react-convertidor-mr/static/js/2.f4949da3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.42eb714e.js",
+    "static/js/runtime-main.db7b9c7e.js",
     "static/js/2.f4949da3.chunk.js",
-    "static/js/main.d42e9b1d.chunk.js"
+    "static/js/main.55a1178c.chunk.js"
   ]
 }
